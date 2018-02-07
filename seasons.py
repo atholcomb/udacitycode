@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # written by: atholcomb
-# season.py
+# seasons.py
 # outputs what to do with a given season
 
 def garden_cal():
