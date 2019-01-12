@@ -3,7 +3,7 @@
 # seasons.py
 # outputs what to do with a given season
 
-def garden_cal():
+def garden_call():
 	""" Print out what to do for a given season"""
 	season = input("Enter a season: ")
 	if season == "spring":
@@ -17,4 +17,4 @@ def garden_cal():
 	else:
 		print("I don't recognize the season")
 
-garden_cal()
+garden_call()
